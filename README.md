@@ -68,8 +68,8 @@
 
 ## Who am I?
 
-<p> 
-Hello! My name is Tiago. I have a firm knowledge of HTML, CSS and JavaScript language and possess a good knowledge of computer software packages (frameworks and tools) that are used in today’s technology. On a personal level, I am highly-motivated, result oriented, self-driven, hard-working, fast learner and constantly seeking to improve my skills and am fully aware of the latest Frontend Development Tools. In addition to this, I have the ability to adapt to any type of team environment, I am team oriented and get along with others when working in a group setting. I also have the ability to work independently while staying on schedule and meeting those tight deadlines.</p>
+<p>Hello, my name is Tiago, I am 24 years old and I am a technology and sports enthusiast. In my free time I like to go to nature, read books, and spend some time with my family. I am a hardworking, organized, focused, and determined person. I am self-taught and I enjoy learning new things (especially things that are challenging to learn).
+My purpose in life is to help people and develop myself. </p>
 
 <br>
 
