@@ -1,14 +1,14 @@
 ### Welcome to my profile 🤸‍♂️🔥
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-rodrigues-7456211b2/) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-E34F26?style=for-the-badge&color=yellow)](https://tiagofrontendeveloper.com)
-
-[![CV](https://img.shields.io/badge/DOWLOAD%20MY%20CV-E34F26?style=for-the-badge&color=red&url=https://firebasestorage.googleapis.com/v0/b/react-app-acd6d.appspot.com/o/CV_Tiago%20Rodrigues%20Pereira.pdf?alt=media&token=d6ef8f22-21a7-41e5-8ac7-d8afc5003be6)](https://firebasestorage.googleapis.com/v0/b/react-app-acd6d.appspot.com/o/CV_Tiago%20Rodrigues%20Pereira.pdf?alt=media&token=d6ef8f22-21a7-41e5-8ac7-d8afc5003be6)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-rodrigues-7456211b2/) [![Portfolio](https://img.shields.io/badge/PORTFOLIO-E34F26?style=for-the-badge&color=yellow)](https://tiagofrontendeveloper.com) [![CV](https://img.shields.io/badge/DOWLOAD%20MY%20CV-E34F26?style=for-the-badge&color=red&url=https://firebasestorage.googleapis.com/v0/b/react-app-acd6d.appspot.com/o/CV_Tiago%20Rodrigues%20Pereira.pdf?alt=media&token=d6ef8f22-21a7-41e5-8ac7-d8afc5003be6)](https://firebasestorage.googleapis.com/v0/b/react-app-acd6d.appspot.com/o/CV_Tiago%20Rodrigues%20Pereira.pdf?alt=media&token=d6ef8f22-21a7-41e5-8ac7-d8afc5003be6)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago-rodrigs&show_icons=true&theme=radical)
 
 ## Frontend Technologies
 
-<div style="display: inline_block"><br>
+<br>
+
+<div style="display: inline_block">
 
 <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -32,7 +32,9 @@
 
 ## Backend Technologies
 
-<div style="display: inline_block"><br>
+<br>
+
+<div style="display: inline_block">
 
 <img align="center" alt="html5"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
@@ -52,7 +54,9 @@
 
 ## Design Technologies
 
-<div style="display: inline_block"><br>
+<br>
+
+<div style="display: inline_block">
 
 <img align="center" alt="html5"  src="https://img.shields.io/badge/Figma-E34F26?style=for-the-badge&color=black"/>
 
